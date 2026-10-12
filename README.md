@@ -1,8 +1,6 @@
 # 👋 Hello, World!
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="Animated cat typing on a computer">
-</p>
+
 
 <h3 align="center">🐱 Beginner Developer | Learning by Building 🚀</h3>
 
